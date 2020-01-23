@@ -65,7 +65,7 @@ h1 {
   font-size: 2em;
 }
 mark {
-  color: #191718;
+  color: #0C090A;
   background: #ff0;
 }
 small {
@@ -193,7 +193,7 @@ th {
   *,
   *:before,
   *:after {
-    color: 191718 # !important;
+    color:#0C090A !important;
     text-shadow: none !important;
     background: transparent !important;
     -webkit-box-shadow: none !important;
