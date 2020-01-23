@@ -65,7 +65,7 @@ h1 {
   font-size: 2em;
 }
 mark {
-  color: #000;
+  color: #191718;
   background: #ff0;
 }
 small {
@@ -193,7 +193,7 @@ th {
   *,
   *:before,
   *:after {
-    color: #000 !important;
+    color: 191718 # !important;
     text-shadow: none !important;
     background: transparent !important;
     -webkit-box-shadow: none !important;
@@ -247,10 +247,10 @@ th {
   }
   .btn > .caret,
   .dropup > .btn > .caret {
-    border-top-color: #000 !important;
+    border-top-color: #191718 !important;
   }
   .label {
-    border: 1px solid #000;
+    border: 1px solid #191718;
   }
   .table {
     border-collapse: collapse !important;
